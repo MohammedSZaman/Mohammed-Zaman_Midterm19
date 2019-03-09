@@ -7,20 +7,22 @@ public abstract class AbstractEmployee implements Employee{
     public int holidaysLeaves;
     public int bonusPaidLeave;
 
-    public int getVacationDays() { return vacationDays;}
+    public int getVacationDays() {
+        return vacationDays;
+    }
 
     public int getSickDays() { return sickDays; }
 
-    public int getHolidaysLeaves() {return holidaysLeaves;}
+    public int getHolidaysLeaves() {return holidaysLeaves; }
 
-    public int getBonusPaidLeave() {return bonusPaidLeave;}
+    public int getBonusPaidLeave() {return bonusPaidLeave; }
 
-    public void setVactionDays(int vacationDays) { this.vacationDays = vacationDays;}
+    public void setVactionDays(int vacationDays) { this.vacationDays = vacationDays; }
 
-    public void setSickDays(int sickDays) { this.sickDays = sickDays;}
+    public void setSickDays(int sickDays) { this.sickDays = sickDays; }
 
-    public void setHolidaysLeaves(int holidaysLeaves) { this.holidaysLeaves = holidaysLeaves;}
+    public void setHolidaysLeaves(int holidaysLeaves) { this.holidaysLeaves = holidaysLeaves; }
 
-    public void setBonusPaidLeave(int bonusPaidLeave) { this.bonusPaidLeave = bonusPaidLeave;}
+    public void setBonusPaidLeave(int bonusPaidLeave) { this.bonusPaidLeave = bonusPaidLeave; }
 
 }

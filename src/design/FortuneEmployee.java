@@ -13,7 +13,31 @@ public class FortuneEmployee {
 	 * Use any databases[MongoDB, Oracle, MySql] to store data and retrieve data.
 	 *
 	 **/
-	public static void main(String[] args) {
+	public static void main(String[] args)  {
+		 EmployeeInfo employee1= new EmployeeInfo(employeeID: "Moe", department: "HR", joiningDate: "1/21/11", salary: 12000);
+		 System.out.println(employee1.calculateEmployeeBonus(numberOfYearsWithCompany:5,salary:12000));
+
+		 EmployeeInfo employee2 = new EmployeeInfo(employeeName:"Shak", department:"CEO", joiningDate: "5/23/08", salary:22000);
+		 System.out.println(employee1.calculateEmployeeBonus(numberOfYearsWithCompany:8,salary:22000));
+
+		 EmployeeInfo employee3 = new EmployeeInfo(employeeID:2222, employeeName: "Jan", department: "Girlfriend", joiningDate: "2/21/10", salary:90000);
+		 System.out.println(employee1.calculateEmployeeBonus(numberOfYearsWithCompany:6,salary:90000));
+
+		 EmployeeInfo daysOff = new EmployeeInfo();
+		 daysOff.setBonuspaidLeave(36);
+		 daysOff.setHolidaysLeaves(40);
+		 daysOff.setSickDays(120);
+		 daysOff.setVacationDays(80);
+		 System.out.println("\nNumber of hours of Bonus paid leave: " + daysOff.getBonusPaidLeave()+"hrs");
+		 System.out.println("\nNumber of hours of Holiday Paid leave: " + daysOff.getHoildaysLeaves()+"hrs");
+		 System.out.println("\nNumber of hours of Sick leave: " + daysOff.getSickDays()+"hrs");
+		 System.out.println("\nNumber of hours of Vaction paid leave: " + daysOff.getVactionDays()+"hrs");
+
+
+
+
+
+
 		
 
 
