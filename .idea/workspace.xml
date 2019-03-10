@@ -3,13 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="bf125068-80bd-41d7-926e-f856450ecbd3" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/datastructure/CollectionView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructure/CollectionView.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/datastructure/DataReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructure/DataReader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/datastructure/UseArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructure/UseArrayList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/datastructure/UseMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructure/UseMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/datastructure/UseQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructure/UseQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/design/EmployeeInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/design/EmployeeInfo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/design/FortuneEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/design/FortuneEmployee.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,20 +12,10 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DarkyenusTimeTracker">
-    <option name="totalTimeSeconds" value="42142" />
+    <option name="totalTimeSeconds" value="42712" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/design/FortuneEmployee.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="20" column="103" lean-forward="true" selection-start-line="20" selection-start-column="103" selection-end-line="20" selection-end-column="103" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -106,7 +89,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552249455093" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552249669800" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -214,9 +197,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17927383" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17927383" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -230,7 +212,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.36070853" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.36070853" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32850242" />
@@ -295,20 +277,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="6831">
           <caret line="253" selection-start-line="253" selection-end-line="253" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/design/UnitTestingEmployeeInfo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/design/Months.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
         </state>
       </provider>
     </entry>
@@ -387,8 +355,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/design/EmployeeInfo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4941">
-          <caret line="183" column="38" selection-start-line="183" selection-start-column="38" selection-end-line="183" selection-end-column="38" />
+        <state relative-caret-position="3645">
+          <caret line="135" column="36" selection-start-line="135" selection-start-column="36" selection-end-line="135" selection-end-column="36" />
         </state>
       </provider>
     </entry>
@@ -396,6 +364,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
           <caret line="20" column="103" lean-forward="true" selection-start-line="20" selection-start-column="103" selection-end-line="20" selection-end-column="103" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design/Months.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design/UnitTestingEmployeeInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
