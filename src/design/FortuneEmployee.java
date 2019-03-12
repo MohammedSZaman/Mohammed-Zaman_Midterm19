@@ -1,5 +1,6 @@
 package design;
 import java.util.Date;
+
 public class FortuneEmployee {
 
 	/**
@@ -14,7 +15,7 @@ public class FortuneEmployee {
 	 *
 	 **/
 	public static void main(String[] args)  {
-		 EmployeeInfo employee1= new EmployeeInfo(employeeID:1111,employeeName:"Moe", department:"HR", joiningDate:"1/21/11", salary: 12000);
+		 EmployeeInfo employee1 = new EmployeeInfo(employeeID:1111, employeeName:"Moe", department:"HR", joiningDate:"1/21/11", salary: 12000);
 		 System.out.println(employee1.calculateEmployeeBonus(numberOfYearsWithCompany:5,salary:12000));
 
 		 EmployeeInfo employee2 = new EmployeeInfo(employeeID:1001,employeeName:"Shak", department:"CEO", joiningDate: "5/23/08", salary:22000);
@@ -29,8 +30,9 @@ public class FortuneEmployee {
 		 daysOff.setSickDays(120);
 		 daysOff.setVacationDays(80);
 		 System.out.println("\nNumber of hours of Bonus paid leave: " + daysOff.getBonusPaidLeave()+"hrs");
-		 System.out.println("\nNumber of hours of Holiday Paid leave: " + daysOff.getHoildaysLeaves()+"hrs");
+		 System.out.println("\nNumber of hours of Holiday Paid leave: " + daysOff.getHolidaysLeaves() +"hrs");
 		 System.out.println("\nNumber of hours of Sick leave: " + daysOff.getSickDays()+"hrs");
+		 System.out.println("\nNumber of hours of Vacation paid leave: " + daysOff.getVacationDays() +"hrs");
 
 
 
