@@ -13,7 +13,14 @@ public class MakePyramid {
                          * * * * * *
 
         */
+        for(int a=0; a<10; a++) {
+            for(int b=0; b<10-a; b++){
+                System.out.print(" *");
+            }
+            System.out.println();}
+
+         }
 
 
-        }
+
   }
