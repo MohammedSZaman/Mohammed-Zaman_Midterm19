@@ -3,7 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="bf125068-80bd-41d7-926e-f856450ecbd3" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/UnitTestSorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/UnitTestSorting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/string/problems/Anagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string/problems/Anagram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/string/problems/DetermineLargestWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string/problems/DetermineLargestWord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/string/problems/DuplicateWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string/problems/DuplicateWord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/string/problems/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string/problems/Palindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/string/problems/Permutation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string/problems/Permutation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/string/problems/UnitTestingStringProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string/problems/UnitTestingStringProblem.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,32 +18,10 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DarkyenusTimeTracker">
-    <option name="totalTimeSeconds" value="82223" />
+    <option name="totalTimeSeconds" value="87744" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/algorithm/Sort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5913">
-              <caret line="219" column="44" selection-start-line="219" selection-start-column="44" selection-end-line="219" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/algorithm/Numbers.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="675">
-              <caret line="25" selection-start-line="25" selection-end-line="25" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -78,6 +61,12 @@
         <option value="$PROJECT_DIR$/src/algorithm/Sort.java" />
         <option value="$PROJECT_DIR$/src/algorithm/Numbers.java" />
         <option value="$PROJECT_DIR$/src/algorithm/UnitTestSorting.java" />
+        <option value="$PROJECT_DIR$/src/string/problems/Anagram.java" />
+        <option value="$PROJECT_DIR$/src/string/problems/DetermineLargestWord.java" />
+        <option value="$PROJECT_DIR$/src/string/problems/DuplicateWord.java" />
+        <option value="$PROJECT_DIR$/src/string/problems/Palindrome.java" />
+        <option value="$PROJECT_DIR$/src/string/problems/Permutation.java" />
+        <option value="$PROJECT_DIR$/src/string/problems/UnitTestingStringProblem.java" />
       </list>
     </option>
   </component>
@@ -110,12 +99,6 @@
               <item name="MidtermJanuary2019" type="b2602c69:ProjectViewProjectNode" />
               <item name="MidtermJanuary2019" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MidtermJanuary2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MidtermJanuary2019" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="data" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -126,7 +109,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552436779043" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552447027179" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -234,7 +217,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17927383" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -533,13 +515,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/Sort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5913">
-          <caret line="219" column="44" selection-start-line="219" selection-start-column="44" selection-end-line="219" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/algorithm/Numbers.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="675">
@@ -547,6 +522,64 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/Sort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5913">
+          <caret line="219" column="44" selection-start-line="219" selection-start-column="44" selection-end-line="219" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/string/problems/Anagram.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="25" column="35" lean-forward="true" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="35" />
+          <folding>
+            <element signature="e#770#790#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/string/problems/DetermineLargestWord.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="33" column="48" selection-start-line="33" selection-start-column="48" selection-end-line="33" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/string/problems/DuplicateWord.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="17" column="80" selection-start-line="17" selection-start-column="80" selection-end-line="17" selection-end-column="80" />
+          <folding>
+            <element signature="e#571#579#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/string/problems/Palindrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/string/problems/Permutation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="22" column="84" selection-start-line="22" selection-start-column="84" selection-end-line="22" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/string/problems/UnitTestingStringProblem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="15" column="46" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
         </state>
       </provider>
     </entry>
